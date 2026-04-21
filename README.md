@@ -13,9 +13,10 @@ Download Instructions:
 
 Setup & Run:
 
-bash
- Install dependencies
+bash:
+
+Install dependencies:
 pip install -r requirements.txt
 
- Run the app
+Run the app:
 streamlit run app.py
